@@ -1,0 +1,6 @@
+console.log(typeof "AAISHA")
+console.log(typeof 3.14)
+console.log(typeof false)
+console.log(typeof 3)
+console.log(typeof null)
+console.log(typeof undefined)
